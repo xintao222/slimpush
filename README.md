@@ -1,2 +1,4 @@
-# slimpush
-Simple Light Instant Message Push
+# SlimPush
+
+Simple Light Instant Message Push Over MQTT
+
